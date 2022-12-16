@@ -1,0 +1,2132 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:regular%2C700%2Cregular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252F6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252F6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fcach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Ffx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Floai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-california-city-200%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-dua-xds-rc600%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-dua-xds-rf380%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-dua-xds-rx280%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-dua-xds-rx350%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-keeprun-atx880%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-the-thao-xds-romance-500%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-the-thao-xds-romance-500-plus%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-the-thao-xds-sundance-710%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fxedap.webtudong8giay.com%252Fsan-pham%252Fxe-dap-the-thao-xds-sundance-800-plus%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://xedap.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-10.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/author/w2steam/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\author\w2steam\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/author/w2steam/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\author\w2steam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/cach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\cach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/cach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\cach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-kien-do-choi-xe-dap/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-kien-do-choi-xe-dap\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-kien-do-choi-xe-dap/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-kien-do-choi-xe-dap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/gac-ba-ga/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\gac-ba-ga\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/gac-ba-ga/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\gac-ba-ga\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/gio-xe/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\gio-xe\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/gio-xe/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\gio-xe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/khung-cang/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\khung-cang\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/khung-cang/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\khung-cang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/sam-lop/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\sam-lop\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/sam-lop/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\sam-lop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/yen-xe/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\yen-xe\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/phu-tung-xe-dap/yen-xe/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\phu-tung-xe-dap\yen-xe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-banh-to/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-banh-to\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-banh-to/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-banh-to\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-banh-to/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-banh-to\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-dien/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-dien\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-dien/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-dien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-dua/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-dua\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-dua/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-dua\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-dua/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-dua\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-dua/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-dua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-duong-pho/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-duong-pho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-fixed-gear/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-fixed-gear\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-fixed-gear/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-fixed-gear\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-gap/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-gap\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-gap/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-gap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-nu/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-nu\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-nu/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-nu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-10.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-cao-cap/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-cao-cap\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-the-thao/xe-dap-gia-re/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-the-thao\xe-dap-gia-re\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-tre-em/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-tre-em\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/danh-muc-san-pham/xe-dap-tre-em/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\danh-muc-san-pham\xe-dap-tre-em\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/fx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\fx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/fx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\fx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/loai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\loai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/loai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\loai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/mua/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-10.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/mua/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\mua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-california-city-200/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-california-city-200\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rc600/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rc600\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rf380/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rf380\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx280/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx280\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-dua-xds-rx350/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-dua-xds-rx350\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-keeprun-atx880/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-keeprun-atx880\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500-plus/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500-plus\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-romance-500/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-romance-500\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-710/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-710\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-1.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-7.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-8.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-2.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-3.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-9.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-4.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-6.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/?add-to-cart=234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\index-5.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/san-pham/xe-dap-the-thao-xds-sundance-800-plus/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\san-pham\xe-dap-the-thao-xds-sundance-800-plus\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/tag/kinh-nghiem-mua-xe/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\tag\kinh-nghiem-mua-xe\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/tag/kinh-nghiem-mua-xe/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\tag\kinh-nghiem-mua-xe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/thanh-toan/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://xedap.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://xedap.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/css/devvn-woocommerce-reviews.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\css\devvn-woocommerce-reviews.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-confirm.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-confirm.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-image.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-image.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-search.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-search.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/js/devvn-woocommerce-reviews.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\js\devvn-woocommerce-reviews.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/jquery.validate.min.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\magnific-popup\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\js\ot-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\css\front.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\css\front-1.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/autoshow_button.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\autoshow_button.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/delete.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\delete.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/minus2.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\minus2.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/img/plus2.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\img\plus2.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.min.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\chosen\chosen.min-1.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\front.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\front-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\checkbox.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\checkbox-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\mselect.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\mselect-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\radio.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\radio-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\select.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\html_types\select-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce-products-filter/js/woof_sid.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce-products-filter\js\woof_sid.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be1-528x330-150x150.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be1-528x330-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/California-City-200-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\California-City-200-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/California-City-200-2-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\California-City-200-2-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/California-City-200-2-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\California-City-200-2-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/California-City-200-3-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\California-City-200-3-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/chat.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\chat.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/cropped-LOGO-XE-DAP-1-180x180.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\cropped-LOGO-XE-DAP-1-180x180.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/cropped-LOGO-XE-DAP-1-192x192.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\cropped-LOGO-XE-DAP-1-192x192.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/cropped-LOGO-XE-DAP-1-32x32.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\cropped-LOGO-XE-DAP-1-32x32.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/dot.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\dot.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/elegant_themes-logo-300x75.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\elegant_themes-logo-300x75.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/elegant_themes-logo.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\elegant_themes-logo.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/icon-phone-1.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\icon-phone-1.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/icon1-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\icon1-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/icon1-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\icon1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/line.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\line.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/loai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong1-528x330-150x150.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\loai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong1-528x330-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/mythemeshop-logo-300x75.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\mythemeshop-logo-300x75.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/mythemeshop-logo.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\mythemeshop-logo.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/optimize-press-logo-300x75.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\optimize-press-logo-300x75.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/optimize-press-logo.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\optimize-press-logo.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/phone-icno.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\phone-icno.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/studiopress-logo-300x75.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\studiopress-logo-300x75.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/studiopress-logo.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\studiopress-logo.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/thanh-toan-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\thanh-toan-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/thanh-toan-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\thanh-toan-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/them-moi-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\them-moi-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/them-moi-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\them-moi-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/update-icon-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\update-icon-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/update-icon-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\update-icon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/wootheme-logo-300x75.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\wootheme-logo-300x75.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/wootheme-logo.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\wootheme-logo.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/wprocket-logo-300x75.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\wprocket-logo-300x75.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/wprocket-logo.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\wprocket-logo.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-1-528x330-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-1-528x330-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-1-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-1-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-2-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-2-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-Plus-1-528x330-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-Plus-1-528x330-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-Plus-1-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-Plus-1-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-Plus-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-Plus-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Romance-500-Plus-3-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Romance-500-Plus-3-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-RX280-2-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-RX280-2-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-RX280-2-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-RX280-2-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-RX280-3-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-RX280-3-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-RX280-4-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-RX280-4-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-710-1-528x330-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-710-1-528x330-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-710-1-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-710-1-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-710-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-710-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-710-2-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-710-2-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-800-Plus-1-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-800-Plus-1-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-800-Plus-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-800-Plus-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-800-Plus-2-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-800-Plus-2-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/XDS-Sundance-800-Plus-3-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\XDS-Sundance-800-Plus-3-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-1-528x330-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-1-528x330-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-1-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-1-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-3-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RC600-Đen-Xanh-3-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RF380-1-528x330-1.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RF380-1-528x330-1.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RF380-1-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RF380-1-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Đua-XDS-RX350-2-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Đua-XDS-RX350-2-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Keep-Run-1-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Keep-Run-1-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Keep-Run-2-528x330-247x296.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Keep-Run-2-528x330-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Keep-Run-2-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Keep-Run-2-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/Xe-Đạp-Keep-Run-3-528x330.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\Xe-Đạp-Keep-Run-3-528x330.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/xe-dap-icon.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\xe-dap-icon.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/xe-dap-the-thao-cho-hoc-sinh3-1-528x330-150x150.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\xe-dap-the-thao-cho-hoc-sinh3-1-528x330-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/xe-dap-the-thao-xin-528x330-150x150.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\xe-dap-the-thao-xin-528x330-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2019/11/xe-dap-tre-em1-528x330-150x150.jpg
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2019\11\xe-dap-tre-em1-528x330-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://xedap.webtudong8giay.com/wp-content/uploads/2021/05/logo-xe-dap.png
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-content\uploads\2021\05\logo-xe-dap.png
+Content Type: image/png
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=0c7c9b9a74ceb717d6eb
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=4b876f1ff2e5c93b8fb1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://xedap.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2F6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2F6-kinh-nghiem-dat-lung-giup-ban-chon-duoc-mot-chiec-xe-dap-the-thao-xin-chuan%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2F6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2F6-tieu-chi-bat-buoc-khi-chon-xe-thang-bang-cho-be-ban-can-phai-biet%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fcach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fcach-lua-chon-xe-dap-the-thao-cho-hoc-sinh-cap-2-3-dung-chuan%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Ffx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Ffx-bike-dai-ly-xe-dap-the-thao-gia-ca-phai-chang-va-nhieu-mau-hot-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Floai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Floai-xe-dap-the-thao-nao-tot-nhat-tu-van-cach-chon-mau-xe-chat-luong%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-california-city-200%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-california-city-200%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rc600%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rc600%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rf380%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rf380%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rx280%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rx280%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rx350%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-dua-xds-rx350%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-keeprun-atx880%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-keeprun-atx880%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-romance-500%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-romance-500%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-romance-500-plus%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-romance-500-plus%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-sundance-710%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-sundance-710%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-sundance-800-plus%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fsan-pham%2Fxe-dap-the-thao-xds-sundance-800-plus%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fthanh-toan%2F
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fxedap.webtudong8giay.com%2Fthanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: text/xml
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/pages/40
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\pages\40
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/pages/42
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\pages\42
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/pages/62
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\pages\62
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/pages/64
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\pages\64
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/posts/360
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\posts\360
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/posts/363
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\posts\363
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/posts/366
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\posts\366
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/posts/369
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\posts\369
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/posts/372
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\posts\372
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/179
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\179
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/185
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\185
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/189
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\189
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/193
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\193
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/197
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\197
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/201
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\201
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/205
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\205
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/209
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\209
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/213
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\213
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product/234
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product\234
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/16
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\16
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/17
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/19
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/25
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\25
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/28
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\28
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/tags/36
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\tags\36
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://xedap.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\xedap.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
